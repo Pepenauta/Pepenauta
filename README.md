@@ -7,7 +7,7 @@
    This is the place for my side projects, learning paths and contributions to the community. Feel free to review, fork, star and issue any repository. Feedback is always welcome! 
 </p>
 <p align='center'>
-    Also, I'm content creator at <strong><a href="https://joseespinosa.dev">Jose's Espinosa Blog</a></strong>
+    Also, I'm content creator at <strong><a href="https://pepenauta.dev">Jose's Espinosa Blog</a></strong>
 </p>
 
 <p align='center'>
